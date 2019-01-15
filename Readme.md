@@ -3,8 +3,8 @@ Better Battery Stats
 
 Show the estimated battery time remaining on top of your screen in Mac OS X 10.8 Mountain Lion.
 
-![Normal mode](https://raw.github.com/codler/Battery-Time-Remaining/master/preview.png)
-![Advanced mode](https://raw.github.com/codler/Battery-Time-Remaining/master/preview_advanced.png)
+![Normal mode](https://raw.github.com/molcik/better-battery-stats-macos/master/preview.png)
+![Advanced mode](https://raw.github.com/molcik/better-battery-stats-macos/master/preview_advanced.png)
 
 Why does this project exist?
 -----------------------------
@@ -16,8 +16,7 @@ How do I install it?
 
 Three options:
 
-- Download from [App Store](https://itunes.apple.com/us/app/battery-time-2/id665678267?mt=12)
-- Download [latest version](http://yap.nu/battery-time-remaining/), unzip and run the App
+- Download [latest version](https://filipmolcik.com/?p=2746&preview=true), unzip and run the App
 - Download the source here from Github and compile it with XCode
 
 Is it accurate?
@@ -32,16 +31,6 @@ Fork this project, make some changes and submit a pull request. Check the issues
 
 If you find any issues or have a feature request please contribute by submitting an issue here on Github!
 
-If you would like to donate some bitcoins:
-
-<code>19H9hk9LgALN41msp67LYysLLyYN23q7Y4</code>
-
-Who did make this app?
-----------------------
-
-* [Han Lin Yap](https://github.com/codler) and thanks to [contributors](https://github.com/codler/Battery-Time-Remaining/graphs/contributors)!
-
-App icon provided by happytel.com free calling for all.
 
 Change log
 ----------
