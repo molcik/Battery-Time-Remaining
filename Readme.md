@@ -32,9 +32,9 @@ If you find any issues or have a feature request please contribute by submitting
 Change log
 ----------
 
-2016-10-15 - **v4.0** - [diff](https://github.com/codler/Battery-Time-Remaining/compare/v3.1...v4.0)
+2016-10-15 - **v4.0.1** - [diff](https://github.com/codler/Battery-Time-Remaining/compare/master...molcik:master)
 
-* Added support for macOS Sierra 10.12 ([nbppp2](https://github.com/nbppp2) [#105](https://github.com/codler/Battery-Time-Remaining/issues/105) [#107](https://github.com/codler/Battery-Time-Remaining/pull/107))
+* Builded for macOS Mojave, changed app icon
 
 2016-10-15 - **v1.8** - [diff](https://github.com/codler/Battery-Time-Remaining/compare/v1.7.1..v1.8)
 
