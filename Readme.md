@@ -1,7 +1,7 @@
 Better Battery Stats
 ======================
 
-Show the estimated battery time remaining on top of your screen in Mac OS X 10.8 Mountain Lion.
+Show the estimated battery time remaining on top of your screen in Mac OS.
 
 ![Normal mode](https://raw.github.com/molcik/better-battery-stats-macos/master/preview.png)
 
