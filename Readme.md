@@ -4,7 +4,6 @@ Better Battery Stats
 Show the estimated battery time remaining on top of your screen in Mac OS X 10.8 Mountain Lion.
 
 ![Normal mode](https://raw.github.com/molcik/better-battery-stats-macos/master/preview.png)
-![Advanced mode](https://raw.github.com/molcik/better-battery-stats-macos/master/preview_advanced.png)
 
 Why does this project exist?
 -----------------------------
@@ -13,8 +12,6 @@ Apple removed the option to show the battery time remaining in the statusbar sin
 
 How do I install it?
 --------------------
-
-Three options:
 
 - Download [latest version](https://filipmolcik.com/?p=2746&preview=true), unzip and run the App
 - Download the source here from Github and compile it with XCode
