@@ -32,7 +32,7 @@ If you find any issues or have a feature request please contribute by submitting
 Change log
 ----------
 
-2010-01-15 - **v4.0.1** - [diff](https://github.com/codler/Battery-Time-Remaining/compare/master...molcik:master)
+2019-01-15 - **v4.0.1** - [diff](https://github.com/codler/Battery-Time-Remaining/compare/master...molcik:master)
 
 * Builded for macOS Mojave, changed app icon
 
