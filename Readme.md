@@ -13,7 +13,7 @@ Apple removed the option to show the battery time remaining in the statusbar sin
 How do I install it?
 --------------------
 
-- Download [latest version](https://filipmolcik.com/?p=2746&preview=true), unzip and run the App
+- Download [latest version](https://filipmolcik.com/better-battery-stats-and-time-remaining-for-mac-os/), unzip and run the App
 - Download the source here from Github and compile it with XCode
 
 Is it accurate?
